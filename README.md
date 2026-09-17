@@ -225,8 +225,7 @@ Windows Explorer 可能缓存旧文件名对应的图标。优先使用发布包
 - “FDTD 无界面一键运行”是功能描述性名称；
 - 应用图标由本项目原创，源文件为 `assets/fdtd_runner_icon.svg`；
 - 文件夹等界面图标来自 Qt 标准系统图标；
-- PySide6/Qt for Python 的使用受其自身许可证约束；
-- 本次整理没有替仓库选择源代码许可证。公开发布前，请根据你的授权意图在仓库根目录添加合适的 `LICENSE`。
+- PySide6/Qt for Python 的使用受其自身许可证约束。
 
 ## 验证边界
 
